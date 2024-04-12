@@ -4,7 +4,6 @@ body, html {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 
-/* Hero Image */
 .hero-container {
     color:#ffffff;
     height: 80vh;
@@ -53,7 +52,6 @@ h1 {
     color: #DFD2D2;
   }
 
-/* Card Containers */
 .container {
     padding-top: 10px;
     height: fit-content;
@@ -117,7 +115,6 @@ h1 {
     margin-bottom: 0;
   }
 
-  /* Accordion */
 
   .accordion {
     background-color: #88536B;
@@ -143,7 +140,6 @@ h1 {
     overflow: hidden;
   }
 
-  /* Footer */
 
   footer {
     position: relative;
@@ -165,14 +161,8 @@ h1 {
     color:#efdfdf; 
     background-color: transparent; 
   }
-  
-  a:hover {
-    color: #DC938E; 
-    background-color: transparent; 
-  }
 
 
-  /* For screens smaller than 768px (tablets) */
 @media (max-width: 768px) {
     .hero-container {
       height: 60vh;
@@ -191,7 +181,6 @@ h1 {
     }
   }
   
-  /* For screens smaller than 576px (phones) */
   @media (max-width: 576px) {
     .hero-container {
       height: 50vh;
