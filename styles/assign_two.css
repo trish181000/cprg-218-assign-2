@@ -58,8 +58,8 @@ h1 {
     padding-top: 10px;
     height: fit-content;
     text-align: center;
-    background-color: #d5becd;
-    color: #402237;
+    background-color: #f6daec;
+    color: #391b30;
 }
 
 .portfolio {
@@ -162,7 +162,7 @@ h1 {
   }
 
   a:link {
-    color:#DFD2D2; 
+    color:#efdfdf; 
     background-color: transparent; 
   }
   
